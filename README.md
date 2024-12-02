@@ -7,18 +7,23 @@ Juan David Marin Barragán, Gerónimo Mateo Ortíz Cruzate
 ![My project-1 (15) (1)](https://github.com/jdavidmb/EmotionAI/assets/101914512/76837a2d-2416-4281-b9ad-3f471dd43158)
 
 
-**Objetivo:** Detección de armas de fuego en secuencias de video.
+**Objetivo:** Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
 
 **Dataset:** 
 
-
-
-El siguiente dataset cuenta con 35 685 ejemplos de imágenes de caras en escala de grises de 48x48 píxeles divididas en conjuntos de datos de prueba y de entrenamiento. Las imágenes se clasifican en función de la emoción que se muestra en las expresiones faciales (felicidad, neutralidad, tristeza, ira, sorpresa, asco, miedo). 
+Imágenes de armas visibles desde distintos ángulos y bajo diversas condiciones proporcionan una base de datos robusta para entrenar modelos de detección.
+El dataset cuenta con 5000 imágenes distribuida de la siguiente manera:
+4,000 train
+500 val
+500 test
 
     Link: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 **Modelos:** 
-    VGG123121
+    Yolov5s
+    Yolov11n
+    Yolov11m
+    DETR
 
 Enlaces importantes:
 
