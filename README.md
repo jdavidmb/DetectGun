@@ -1,4 +1,4 @@
-# **DetectGun**
+# **Detección de armas de fuego en secuencias de video**
 
 **Autores:**
 
@@ -17,7 +17,8 @@ El dataset cuenta con 5000 imágenes distribuida de la siguiente manera:
 500 val
 500 test
 
-    Link: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+    Preprocesado en formato YOLO: https://drive.google.com/drive/folders/1zS_5Vx0g1U8hKqSgetYigJKqncXvGOMN?usp=sharing
+    Preprocesado en formato COCO: https://drive.google.com/drive/folders/1Tk4zZDu9MCL2WsSemcOsqi2DSdqrLr8v?usp=sharing
 
 **Modelos:** 
     Yolov5s
