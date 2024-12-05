@@ -2,7 +2,7 @@
 
 **Autores:**
 
-Juan David Marin Barragán, Gerónimo Mateo Ortíz Cruzate
+Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
 ![My project-1 (15) (1)](https://github.com/jdavidmb/EmotionAI/assets/101914512/76837a2d-2416-4281-b9ad-3f471dd43158)
 
