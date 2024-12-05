@@ -17,8 +17,10 @@ El dataset cuenta con 5000 imágenes distribuida de la siguiente manera:
 500 val
 500 test
 
-    Preprocesado en formato YOLO: https://drive.google.com/drive/folders/1zS_5Vx0g1U8hKqSgetYigJKqncXvGOMN?usp=sharing
-    Preprocesado en formato COCO: https://drive.google.com/drive/folders/1Tk4zZDu9MCL2WsSemcOsqi2DSdqrLr8v?usp=sharing
+Preprocesado en formato YOLO:
+    https://drive.google.com/drive/folders/1zS_5Vx0g1U8hKqSgetYigJKqncXvGOMN?usp=sharing  
+Preprocesado en formato COCO:
+    https://drive.google.com/drive/folders/1Tk4zZDu9MCL2WsSemcOsqi2DSdqrLr8v?usp=sharing
 
 **Modelos:** 
     Yolov5s
@@ -26,9 +28,8 @@ El dataset cuenta con 5000 imágenes distribuida de la siguiente manera:
     Yolov11m
     DETR
 
-Enlaces importantes:
+Enlaces importantes:  
 
-    Video youtube: https://youtu.be/O8f0QxrebMQ
+Video youtube: https://youtu.be/O8f0QxrebMQ  
     
-    Presentación: https://gamma.app/docs/Deteccion-de-armas-de-fuego-en-secuencias-de-video-cbqip0m4cn1i8uh
-
+Presentación: https://www.canva.com/design/DAGYGiM89HU/rSTDf8GPvG0VakAbMS2Low/view?utm_content=DAGYGiM89HU&utm_campaign=designshare&utm_medium=link&utm_source=editor
