@@ -4,7 +4,7 @@
 
 Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
-![My project-1 (15) (1)](https://github.com/jdavidmb/EmotionAI/assets/101914512/76837a2d-2416-4281-b9ad-3f471dd43158)
+![ia2banner.jpg](https://github.com/jdavidmb/DetectGun/blob/main/ia2banner2.jpg)
 
 
 **Objetivo:** Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
