@@ -1,11 +1,12 @@
 # **Detección de armas de fuego en secuencias de video**
 
- **Autores:**
-
-Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
+ 
 
 ![ia2banner.jpg](https://github.com/jdavidmb/DetectGun/blob/main/ia2banner2.jpg)
 
+**Autores:**
+
+Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
 **Objetivo:** Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
 
