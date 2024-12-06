@@ -24,10 +24,10 @@ Preprocesado en formato COCO:
 
 ## **Modelos:** 
 
-Yolov5s,
-Yolov11n,
-Yolov11m,
-DETR.
+[Yolov5s](https://github.com/jdavidmb/DetectGun/blob/main/Yolov5.ipynb),
+[Yolov11n](https://github.com/jdavidmb/DetectGun/blob/main/Yolo11n.ipynb),
+[Yolov11m](https://github.com/jdavidmb/DetectGun/blob/main/Yolov11m.ipynb),
+[DETR](https://github.com/jdavidmb/DetectGun/blob/main/DETR.ipynb).
 
 ## **Enlaces importantes:**  
 
