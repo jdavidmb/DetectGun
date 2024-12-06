@@ -8,7 +8,9 @@
 
 Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
-**Objetivo:** Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
+## **Objetivo:**  
+Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
+
 
 ## **Dataset:** 
 
