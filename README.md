@@ -1,6 +1,6 @@
 # **Detección de armas de fuego en secuencias de video**
 
-**Autores:**
+ **Autores:**
 
 Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
@@ -9,26 +9,27 @@ Juan David Marin Barragán, Mateo Gerónimo Ortiz Cruzate
 
 **Objetivo:** Desarrollar un sistema basado en redes neuronales convolucionales (CNN) para **detectar** la presencia de armas de fuego en secuencias de vídeo.
 
-**Dataset:** 
+## **Dataset:** 
 
 Imágenes de armas visibles desde distintos ángulos y bajo diversas condiciones proporcionan una base de datos robusta para entrenar modelos de detección.
 El dataset cuenta con 5000 imágenes distribuida de la siguiente manera:
-    4,000 train
-    500 val
-    500 test
+4,000 train,
+500 val,
+y 500 test.
 
 Preprocesado en formato YOLO:
     https://drive.google.com/drive/folders/1zS_5Vx0g1U8hKqSgetYigJKqncXvGOMN?usp=sharing  
 Preprocesado en formato COCO:
     https://drive.google.com/drive/folders/1Tk4zZDu9MCL2WsSemcOsqi2DSdqrLr8v?usp=sharing
 
-**Modelos:** 
-    Yolov5s
-    Yolov11n
-    Yolov11m
-    DETR
+## **Modelos:** 
 
-Enlaces importantes:  
+Yolov5s,
+Yolov11n,
+Yolov11m,
+DETR.
+
+## **Enlaces importantes:**  
 
 Video youtube: https://youtu.be/O8f0QxrebMQ  
     
